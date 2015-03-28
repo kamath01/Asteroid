@@ -4,7 +4,7 @@
 <head>
 	<title>My First page</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="style-1.css">
+	<link rel="stylesheet" type="text/css" href="style-!.css">
 	<!--<style>
 	  h1{
 	       color: red;
@@ -24,7 +24,7 @@
 </head>
 
 <body>
-	<h1 id="heading2" class="header">My first page</h1>
+	<h1 id="heading1" class="header">My first page</h1>
 	<p>Welcome to my first page!!!!!<br>feel free</p>
 	<p>This is my first attempt to use html and develop something right from the begining.   
 	<h2 id="heading2" class="header">My page</h2>
